@@ -10,7 +10,7 @@ class Home extends BaseController
         // dd('tes');
         $data['title'] = "Perkenalan";
         $data['perkenalan'] = "Nama saya Syahrul Alif Saputra Saya tinggal di daerah Pondok Ungu Permai olah raga yang saya sukai adalah Bulutangkis";
-        return view('home/index', $data);
+        return view('welcome_message', $data);
     }
 
     public function penjumlahan($n1, $n2)

@@ -1,0 +1,57 @@
+CRITICAL - 2023-10-10 12:44:46 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:29 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:29 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:30 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:32 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:48 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:49 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 12:46:49 --> Too few arguments to function App\Controllers\Home::penjumlahan(), 0 passed in C:\laragon\www\latihan-c1\system\CodeIgniter.php on line 919 and exactly 2 expected
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 13:12:58 --> Invalid file: "latihan_wp/v_header.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('latihan_wp/v_header.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('latihan_wp/v_header', [], true)
+ 3 APPPATH\Controllers\Web.php(13): view('latihan_wp/v_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
